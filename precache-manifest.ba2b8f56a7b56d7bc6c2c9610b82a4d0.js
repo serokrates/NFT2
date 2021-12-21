@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cbae0898545f499b499e",
+    "revision": "2a62b9505add21347729",
     "url": "/NFT2/static/css/main.a48c126a.chunk.css"
   },
   {
-    "revision": "cbae0898545f499b499e",
-    "url": "/NFT2/static/js/main.cbae0898.chunk.js"
+    "revision": "2a62b9505add21347729",
+    "url": "/NFT2/static/js/main.2a62b950.chunk.js"
   },
   {
     "revision": "6afbf72fb1369b319f64",
@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/NFT2/static/js/runtime~main.ce8171bc.js"
   },
   {
-    "revision": "bdf2a4a1506ecbad79e64ea4f770609e",
-    "url": "/NFT2/static/media/3.bdf2a4a1.png"
-  },
-  {
     "revision": "7db777d229df5665fa3455268297f645",
     "url": "/NFT2/static/media/2.7db777d2.png"
   },
   {
-    "revision": "e41074765930e6b7de4fbb9834274e67",
+    "revision": "bdf2a4a1506ecbad79e64ea4f770609e",
+    "url": "/NFT2/static/media/3.bdf2a4a1.png"
+  },
+  {
+    "revision": "90d8053fa6d30c7fcf3ca53593074577",
     "url": "/NFT2/index.html"
   }
 ];
