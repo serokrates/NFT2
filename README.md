@@ -14,3 +14,4 @@ Link to the project: https://serokrates.github.io/NFT2/#/
 
 
 Exchange tab - Work in progress...
+![image](https://user-images.githubusercontent.com/15717382/178972939-5a937e56-20aa-4288-8455-5686bdb57a91.png)
