@@ -1,5 +1,5 @@
 # NFT2
-This is my first nft project wchich I deployed on harmony one testnet. It creates random weapons with random stats based on their lvl of rarity (they appearance is also connected to their rarity).
+This is my first nft project which I deployed on harmony one testnet. It creates random weapons with random stats based on their lvl of rarity (their appearance is also connected to their rarity).
 
 To see minted cards and to mint and send your own card, you need to connect to harmony one testnet using metamask. 
 Please use the instructions provided in this link: 
